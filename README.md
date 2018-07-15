@@ -19,7 +19,7 @@ We never encode secrets in source code, consequently, we need to pass that infor
 - consumer_key, consumer_secret, access_token, access_token_secret
 
 The server then takes a commandline argument indicating the file name of this data. For example, I pass in my secrets via 
-- $ sudo python server.py ~/Dropbox/licenses/twitter.csv
+- $ sudo python server.py ~/licenses/twitter.csv
 
 Please keep in mind the limits imposed by the twitter API. For example, you can only do 15 follower list fetches per 15 minute window, but you can do 900 user timeline fetches.
 
