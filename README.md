@@ -50,6 +50,7 @@ Function fetch_following() returns a dictionary containing:
 This information is needed to generate the HTML for the two different kinds of pages.
 
 
-
+### Output
+The tweets from the user are displayed on the HTML page with a sentiment score and colored from green to red based on positive or negative score
 
 
