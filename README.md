@@ -51,6 +51,6 @@ This information is needed to generate the HTML for the two different kinds of p
 
 
 ### Output
-The tweets from the user are displayed on the HTML page with a sentiment score and colored from green to red based on positive or negative score
+The tweets from the user are displayed on the HTML page with a sentiment score and colored from green to red based on positive to negative score
 
 
